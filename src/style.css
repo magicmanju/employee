@@ -1,0 +1,38 @@
+.heading{
+    text-align: center;
+    padding-top: 1px;
+}
+.color{
+    background-color: lightgray;
+    
+}
+.color1{
+    background-color:  gray;
+    padding-top: 10px;
+}
+.search{
+    width: 60%;
+    height: 40px;
+}
+.search:hover{
+    box-shadow: 1px 1px 5px cyan;
+}
+
+.inline{
+    display: inline-block;
+    border: 5px solid black;
+    border-radius: 15%;
+}
+.border{
+    border-radius: 15%;
+}
+.id{
+    border: 1px solid;
+    padding: 5% 10px;
+    border-radius: 50%;
+    background-color: black;
+}
+.text{
+    font-size: 20px;
+    text-shadow: 1px 1px black;
+}
